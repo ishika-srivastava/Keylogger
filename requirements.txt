@@ -1,0 +1,5 @@
+pynput
+threading
+smtplib
+email
+cryptography
