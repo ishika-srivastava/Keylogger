@@ -1,5 +1,5 @@
-pynput == 1.7.7
-threading == 3.12.4
-smtplib == 8.8.4
-email == 1.0.3
-cryptography == 42.0.8
+pynput==1.7.7
+threading==3.12.4
+smtplib==8.8.4
+email==1.0.3
+cryptography==42.0.8
